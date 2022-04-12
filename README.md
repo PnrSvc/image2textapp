@@ -1,7 +1,6 @@
-
 ---
 title: Image To Text App
-emoji: :)
+emoji: 📈
 colorFrom: indigo
 colorTo: green
 sdk: streamlit
